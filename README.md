@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Job Search API</h3>
+  <h3 align="center">Node.js with Oracle DB connectivity</h3>
   <p align="center">
     <a href="https://github.com/ganeshmkharvi/node-oracledb/issues">Report Bug </a>
     ·
@@ -36,7 +36,7 @@ To run this project, you'll need to have the following installed:
   ```sh
   npm install npm@latest -g
   ```
-- OracleDB <br>
+- OracleDB
 > <br>
 
 ### Installation
