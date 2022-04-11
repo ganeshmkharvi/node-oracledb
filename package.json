@@ -1,0 +1,14 @@
+{
+  "name": "Node-OracleDB",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node-OracleDB",
+  "keywords": [
+    "myapp"
+  ],
+  "dependencies": {
+    "oracledb": "^5.1.0"
+  },
+  "author": "Ganesh Kharvi",
+  "license": "MIT"
+}
