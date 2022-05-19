@@ -50,3 +50,6 @@ To run this project, you'll need to have the following installed:
    ```sh
    npm install
    ```
+ 3. Start the server :
+
+node example.js
